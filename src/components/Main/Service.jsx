@@ -20,7 +20,7 @@ const Service = () => (
                 <h3>
                     <FormattedMessage
                         id='design'
-                        defaultMessage='ADesign UX/UIboult me'
+                        defaultMessage='A Design UI/UX about me'
                     />
                 </h3>
                 <p>

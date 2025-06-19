@@ -24,13 +24,13 @@ const Content = () => (
                 <h1 data-aos="fade-up" data-aos-delay="800">
                     <FormattedMessage
                         id='Name'
-                        defaultMessage='I am Suhas'
+                        defaultMessage="I'm Suhas"
                     />
                 </h1>
                 <p data-aos="fade-up" data-aos-delay="1000">
                     <FormattedMessage
                         id='rol'
-                        defaultMessage='Full-stack developer'
+                        defaultMessage='Full-stack Engineer'
                     />
                 </p> 
 
